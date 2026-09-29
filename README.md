@@ -1,0 +1,1 @@
+# Real-time-face-mask-detection-using-MobileNetV2-transfer-learning-and-OpenCV-Haar-cascade.
